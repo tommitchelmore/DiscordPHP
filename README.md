@@ -24,6 +24,6 @@ composer require tommitchelmore/discordphp
 
 Urgh, I'll get round to it soon, I promise
 
-##Contribution
+## Contribution
 
 I don't have plans to officially extent this beyond here as it's very much built for a specific project.  That said, if you wish to extent or modify it please feel free - the only condition is that you have to let me know if you make something cool!  (Equally, pull requests are open; I'd be delighted to accept code from someone better at this than me)
