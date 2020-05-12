@@ -1,5 +1,3 @@
-[![codecov](https://codecov.io/gh/tommitchelmore/DiscordPHP/branch/master/graph/badge.svg)](https://codecov.io/gh/tommitchelmore/DiscordPHP)
-
 # DiscordPHP
 
 ## Overview
