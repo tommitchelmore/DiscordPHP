@@ -19,11 +19,5 @@
     },
     "require": {
         "textalk/websocket": "^1.2"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/tommitchelmore/"
-        }
-    ]
+    }
 }
