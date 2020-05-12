@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "874b32a2c551e6c115af99a15e433d60",
+    "content-hash": "a9bbd564620dd66cc6325b08c79769c9",
     "packages": [
         {
             "name": "textalk/websocket",
@@ -52,6 +52,9 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
     "platform-dev": []
 }

@@ -43,7 +43,7 @@ class Discord
             CURLOPT_POST => $post,
             CURLOPT_RETURNTRANSFER => true,
             CURLOPT_URL => $this->baseUrl . $endpoint,
-            CURLOPT_USERAGENT => 'vSuite Panel (https://vsuite.dev, 1.0.0)',
+            CURLOPT_USERAGENT => 'DiscordPHP (https://github.com/tommitchelmore/DiscordPHP, 1.0.0)',
             CURLOPT_HTTPHEADER => array("Content-Type:application/json", 'Authorization: Bot ' . $this->token)
         ));
         try {

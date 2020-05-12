@@ -18,6 +18,8 @@
         "wiki": "https://github.com/tommitchelmore/DiscordPHP/wiki"
     },
     "require": {
-        "textalk/websocket": "^1.2"
+        "textalk/websocket": "^1.2",
+        "ext-curl": "*",
+        "ext-json": "*"
     }
 }
