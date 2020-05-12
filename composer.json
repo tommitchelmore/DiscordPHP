@@ -1,0 +1,14 @@
+{
+    "name": "tommitchelmore/discordphp",
+    "description": "Simple wrapper for the Discord REST API",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tom",
+            "email": "tommitchelmore@outlook.com"
+        }
+    ],
+    "require": {
+        "textalk/websocket": "^1.2"
+    }
+}
