@@ -5,10 +5,25 @@
     "authors": [
         {
             "name": "Tom",
-            "email": "tommitchelmore@outlook.com"
+            "email": "tommitchelmore@outlook.com",
+            "homepage": "https://tommitchelmore.me",
+            "role": "Developer"
         }
     ],
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/tommitchelmore/DiscordPHP",
+        "issues": "https://github.com/tommitchelmore/DiscordPHP/issues",
+        "docs": "https://github.com/tommitchelmore/DiscordPHP/wiki",
+        "wiki": "https://github.com/tommitchelmore/DiscordPHP/wiki"
+    },
     "require": {
         "textalk/websocket": "^1.2"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/tommitchelmore/"
+        }
+    ]
 }
